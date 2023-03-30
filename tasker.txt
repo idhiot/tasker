@@ -1,0 +1,17 @@
+*Cara membuat script perintah tasker:
+
+1. Get Voice
+
+2. Variable Set
+name %say to %VOICE
+
+3. Variable Spilt
+name %say Splitter VOICE
+
+4. Say
+Text Halo bos, saya adalah susi asisten anda yang siap membantu
+
+5. If
+%say  || Halo siapa kamu
+
+
